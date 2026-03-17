@@ -1,2 +1,10 @@
-pip install streamlit fastapi uvicorn
-pip install 
+streamlit 
+fastapi 
+uvicorn
+langchain 
+langchain-community
+google-generativeai
+pymongo
+faiss-cpu
+duckduckgo-search
+speechrecognition
