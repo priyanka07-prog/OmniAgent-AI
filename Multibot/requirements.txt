@@ -1,10 +1,11 @@
-streamlit 
-fastapi 
+streamlit
+fastapi
 uvicorn
-langchain 
+langchain
 langchain-community
 google-generativeai
 pymongo
 faiss-cpu
 duckduckgo-search
 speechrecognition
+requests
