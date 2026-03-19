@@ -1,3 +1,6 @@
 {
-    "python.REPL.enableREPLSmartSend": false
+    "python.analysis.extraPaths": [
+        "./",
+        "C:/Users/PRIYANKA/anaconda3/env/py311/Lib/site-packages"
+    ]
 }
