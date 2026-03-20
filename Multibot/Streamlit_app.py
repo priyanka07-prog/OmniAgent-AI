@@ -1,6 +1,9 @@
-
+import sys
 import streamlit as st
 import requests
+
+def is_streamlit():
+    return "streamlit" in sys.modules
 
 st.title("Multi Agent System")
 

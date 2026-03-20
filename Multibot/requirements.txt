@@ -10,3 +10,4 @@ duckduckgo-search
 speechrecognition
 requests
 pyaudio
+pyttsx3
